@@ -30,7 +30,7 @@ find_package(GTest CONFIG REQUIRED)
 # TODO: change template word to project name and delete this comment
 add_library(template STATIC
   # enum your files and delete this comment
-        include/student.hpp sources/student.cpp)
+        include/student.hpp sources/student.cpp sources/parser.cpp include/parser.hpp)
 add_executable(tests
   # TODO: enum your files and delete this comment
   ${CMAKE_CURRENT_SOURCE_DIR}/tests/test.cpp
