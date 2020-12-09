@@ -1,0 +1,13 @@
+{
+  "items": [
+    {
+      "name": "Ivanov Ivan",
+      "group": "IU8-31",
+      "avg": null,
+      "debt": "C++"
+    }
+  ],
+  "_meta": {
+    "count": 1
+  }
+}
