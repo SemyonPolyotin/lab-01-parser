@@ -1,6 +1,5 @@
-//
-// Created by Семён Полётин on 05.12.2020.
-//
+// Copyright 2020 Семён Полётин
+
 #include "parser.hpp"
 
 Parser::Parser(const std::string& jsonPath) {

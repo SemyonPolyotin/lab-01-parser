@@ -1,6 +1,5 @@
-//
-// Created by Семён Полётин on 05.12.2020.
-//
+// Copyright 2020 Семён Полётин
+
 #ifndef INCLUDE_PARSER_HPP_
 #define INCLUDE_PARSER_HPP_
 

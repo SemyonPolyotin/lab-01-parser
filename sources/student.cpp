@@ -1,3 +1,5 @@
+// Copyright 2020 Семён Полётин
+
 #include "student.hpp"
 
 using nlohmann::json;

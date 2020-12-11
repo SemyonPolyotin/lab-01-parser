@@ -1,17 +1,15 @@
-//
-// Created by Семён Полётин on 05.12.2020.
-//
+// Copyright 2020 Семён Полётин
 
-#ifndef LAB_01_PARSER_STUDENT_HPP
-#define LAB_01_PARSER_STUDENT_HPP
+#ifndef INCLUDE_STUDENT_HPP_
+#define INCLUDE_STUDENT_HPP_
 
-#endif  // LAB_01_PARSER_STUDENT_HPP
+#endif  //INCLUDE_STUDENT_HPP_
 
+#include "../../../../.hunter/_Base/9a3594a/a04cd14/c351cc1/Install/include/nlohmann/json.hpp"
 #include "any"
 #include "exception"
 #include "fstream"
 #include "iomanip"
-#include "../../../../.hunter/_Base/9a3594a/a04cd14/c351cc1/Install/include/nlohmann/json.hpp"
 #include "string"
 
 using nlohmann::json;
